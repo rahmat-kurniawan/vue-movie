@@ -1,4 +1,4 @@
-# vue-movie
+# VueJS Movie App
 
 ## Project setup
 ```
